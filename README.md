@@ -8,7 +8,7 @@ For test and use, the following tools are needed:
 
 * VS-Code (for development use only, if needed).
 * Docker 20.10+
-* Docker writing
+* Docker Componse
 * NodeJS v18.12.1+
 * Java 17+
 * Python 3+
