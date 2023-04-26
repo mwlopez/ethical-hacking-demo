@@ -45,5 +45,3 @@ curl -X POST http://localhost:8080/sql -H "Content-Type: application/json" -d "{
 ```
 
 For our surprise we got a right response. Finally we can conclude, we are hacked.
-
-### Using kali and 
